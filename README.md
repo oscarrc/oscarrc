@@ -89,7 +89,7 @@ When I'm not spinning up a new Astro project or designing an innovative web work
 
 *   🐧 **Ricing my OS:** Living in Arch Linux, customizing tiling compositors like Hyprland and Niri.
 *   ⌨️ **Hardware Tinkering:** Designing custom split ortholinear ergonomic keyboards from scratch, straight from EasyEDA to JLCPCB.
-*   🎮 **Retro & Handheld Gaming:** Managing ROMs, tweaking frontends, and getting the most out of devices like the AYN Thor Black Max (the Moorechip subsidiary handheld). 
+*   🎮 **Retro & Handheld Gaming:** Managing ROMs, tweaking frontends, and getting the most out of devices like the AYN Thor. 
 *   🕹️ **Gaming & Game Dev:** Occasionally developing flat 2D game concepts, or casually playung indie games.
 *   🇹🇭 **Language Learning:** Actively studying the Thai language and diving into the culture.
 
